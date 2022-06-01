@@ -79,4 +79,19 @@
 ---
 ## 11. What is React Router?
 #### :- react router is a standard library for routing in react it enable the navigation among the views of various components in react application.it allow changing the browser URL
-#### :- react router plays an important role to display multiple views in a SPA
+#### :- react router plays an important role to display multiple views in a SPA.
+---
+# Day 3
+---
+## 12. How to create Reusable components in React?
+#### 1. Through the props method
+#### 2. Using parent components
+---
+## 13. What are the three principles that Redux follows?
+#### 1. Single source of truth
+#### 2. State is read only
+#### 3. Changes are made with pure function.
+---
+## 14. Explain difference between Browser Route, Route, Routes
+#### 1. BrowserRouter : It is the parent component that is used to store all the other components.
+#### 2. Route : it is the conditionaly shown component that renders some UI when path is matched to curent URL. 
