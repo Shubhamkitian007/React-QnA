@@ -93,5 +93,6 @@
 #### 3. Changes are made with pure function.
 ---
 ## 14. Explain difference between Browser Route, Route, Routes
-#### 1. BrowserRouter : It is the parent component that is used to store all the other components.
-#### 2. Route : it is the conditionaly shown component that renders some UI when path is matched to curent URL. 
+#### 1. BrowserRouter : It is a router implementation taht uses the HTML5 history API to keep our UI in sync with the URL. it is the parent component that is ysed to store all the other components.
+#### 2. Routes : It is the new component introduced in the V6 and a upgrade of a component. it is used to group all the route if there are more than 1 route components and routes are chosen based on best match.
+#### 3. Route: It is the conditionally show component that renders some UI when path is matched to current url
